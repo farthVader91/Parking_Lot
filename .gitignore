@@ -1,0 +1,7 @@
+# Project exclude paths
+/.gradle/
+/Parking Lot/task/build/
+/Parking Lot/task/out/
+/Parking Lot/task/out/production/classes/
+/Topics/Reading data with a readLine/Read a Double/out/
+/Topics/Reading data with a readLine/Read a Double/out/production/classes/
